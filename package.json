@@ -1,0 +1,14 @@
+{
+  "name": "mql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^1.12.0"
+  }
+}
